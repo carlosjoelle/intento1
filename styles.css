@@ -14,6 +14,15 @@ header {
     text-align: center;
     padding: 30px;
 }
+
+
+main {
+    header {
+    background-color: #b2bf21;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
 /* Estilo para la imagen (logo) */
 header img {
     position: absolute; /* Posicionamiento absoluto para mover el logo */
