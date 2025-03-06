@@ -8,12 +8,7 @@ body {
     background-attachment: fixed;
 }
 
-header {
-    background-color: #b2bf21;
-    color: white;
-    text-align: center;
-    padding: 30px;
-}
+
 
 main p {
     font-family: "Times New Roman", serif; /* Cambia el tipo de letra */
