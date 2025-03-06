@@ -9,5 +9,18 @@ header {
     background-color: #4CAF50;
     color: white;
     text-align: center;
-    padding: 100px;
+    padding: 20px;
+}
+/* Estilo para la imagen (logo) */
+header img {
+    position: absolute; /* Posicionamiento absoluto para mover el logo */
+    top: 10px; /* Mueve el logo 10px hacia abajo desde la parte superior */
+    left: 10px; /* Mueve el logo 10px hacia la izquierda desde el borde */
+    width: 150px; /* Tamaño del logo */
+}
+
+/* Estilo para el texto del header */
+header h1 {
+    font-size: 24px;
+    margin: 10px 0;
 }
