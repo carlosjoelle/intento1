@@ -8,6 +8,12 @@ body {
     background-attachment: fixed;
 }
 
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
 
 
 main p {
