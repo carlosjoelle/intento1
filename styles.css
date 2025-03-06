@@ -15,14 +15,15 @@ header {
     padding: 30px;
 }
 
-
-main {
-    header {
-    background-color: #b2bf21;
-    color: white;
-    text-align: center;
-    padding: 30px;
+main p {
+    font-family: "Times New Roman", serif; /* Cambia el tipo de letra */
+    font-size: 24px; /* Cambia el tamaño */
+    color: #333; /* Puedes cambiar el color si quieres */
+    text-align: center; /* Centrado opcional */
+    margin-top: 20px;
 }
+
+
 /* Estilo para la imagen (logo) */
 header img {
     position: absolute; /* Posicionamiento absoluto para mover el logo */
